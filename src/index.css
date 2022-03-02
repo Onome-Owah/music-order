@@ -1,0 +1,730 @@
+
+@media (min-width:320px)  {  
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color:rgb(186, 217, 243)
+    
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .top{
+    margin-top: 20%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 80%
+  }
+
+
+  
+  .under{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    bottom: 0.2rem;
+    padding-top: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .para{
+    padding-bottom: 7%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 12px;
+    line-height: 17px;
+    
+  }
+  
+  .music{
+    margin-top: 20%;
+    padding-top: 20px;
+    width: 70%; 
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  } 
+
+
+  .space{
+    font-size: 10px;
+  }
+  
+  .change{
+    font-size: 10px;
+  }
+  
+  .btn{
+    width: 65%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0; 
+    font-weight: bold;
+    
+  }
+  
+  .Can{
+    font-size: small;
+    margin-top: 20px;
+   padding-bottom: 35px;
+   margin-bottom: 10px;
+  }
+  
+  .order{
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+    font-weight: bold;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+ @media (min-width:375px)  { 
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color:rgb(186, 217, 243)
+  }
+
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .top{
+    margin-top: 5%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 80%;
+  }
+  
+  .under{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    bottom: 0.2rem;
+    padding-top: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .para{
+    padding-bottom: 7%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 12px;
+    
+  }
+  
+  .music{
+    margin-top: 20%;
+    padding-top: 20px;
+    width: 70%; 
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  } 
+  
+  
+  
+  .btn{
+    width: 65%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0; 
+    font-weight: bold;
+    
+  }
+  
+  .Can{
+    font-size: small;
+    margin-top: 20px;
+   padding-bottom: 35px;
+  }
+  
+  .order{
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+    font-weight: bold;
+  }
+  
+ } 
+
+
+
+
+
+
+ @media (min-width:425px)  { 
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color:rgb(186, 217, 243)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .top{
+    margin-top: 5%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 80%;
+  }
+  
+  .under{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    bottom: 0.2rem;
+    padding-top: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .para{
+    padding-bottom: 7%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 12px;
+    
+  }
+  
+  .music{
+    margin-top: 20%;
+    padding-top: 20px;
+    width: 70%; 
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  } 
+  
+  
+  
+  .btn{
+    width: 65%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0; 
+    font-weight: bold;
+    
+  }
+  
+  .Can{
+    font-size: small;
+    margin-top: 20px;
+   padding-bottom: 35px;
+  }
+  
+  .order{
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+    font-weight: bold;
+  }
+ }
+
+
+ @media (min-width:768px)  { 
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color:rgb(186, 217, 243)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .top{
+    margin-top: 5%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 40%;
+  }
+  
+  .under{
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    bottom: 0.2rem;
+    padding-top: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .para{
+    padding-bottom: 7%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 12px;
+    
+  }
+  
+  .music{
+    margin-top: 20%;
+    padding-top: 20px;
+    width: 70%; 
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  } 
+  
+  
+  
+  .btn{
+    width: 65%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0; 
+    font-weight: bold;
+    
+  }
+  
+  .Can{
+    font-size: small;
+    margin-top: 20px;
+   padding-bottom: 35px;
+  }
+  
+  .order{
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+    font-weight: bold;
+  }
+ }
+
+
+
+
+
+ @media (min-width:1024px) {
+ body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-color:rgb(186, 217, 243)
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.top{
+  margin-top: 5%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 35%;
+}
+
+.under{
+  background-color: white;
+  width: 35%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  bottom: 0.2rem;
+  padding-top: 30px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.para{
+  padding-bottom: 7%;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding-top: 4%;
+  font-size: 12px;
+  
+}
+
+.music{
+  margin-top: 20%;
+  padding-top: 20px;
+  width: 70%; 
+  background-color: whitesmoke;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6%;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+} 
+
+
+
+.btn{
+  width: 65%;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 10px 10px 0; 
+  font-weight: bold;
+  
+}
+
+.Can{
+  font-size: small;
+  margin-top: 20px;
+ padding-bottom: 35px;
+}
+
+.order{
+  text-decoration: none;
+  color: rgb(88, 87, 87);
+  font-weight: bold;
+}
+
+ } 
+
+
+
+ @media (min-width:1440px) {
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color:rgb(186, 217, 243)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .top{
+    margin-top: 10%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 33%;
+  }
+  
+  .under{
+    background-color: white;
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    bottom: 0.2rem;
+    padding-top: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-bottom: 40px;
+
+  }
+  
+  .para{
+    padding-bottom: 7%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 20px;
+    
+  }
+  
+  .music{
+    margin-top: 20%;
+    padding-top: 20px;
+    width: 70%; 
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  } 
+
+  
+  
+  
+  
+  .btn{
+    width: 65%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0; 
+    font-weight: bold;
+    
+  }
+  
+  .Can{
+    font-size: small;
+    margin-top: 20px;
+   padding-bottom: 35px;
+  }
+  
+  .order{
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+    font-weight: bold;
+  }
+  
+   } 
+ 
+
+
+
+
+
+
+
+
+
+
+   @media (min-width:1440px) {
+ body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-color:rgb(224, 232, 255, 255)
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.top{
+  padding-top: 10px;
+  margin-top: 70px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 30%;
+}
+
+.under{
+  background-color: white;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  bottom: 0.2rem;
+  padding-top: 30px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.para{
+  padding-bottom: 3%;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding-top: 4%;
+  font-size: 15px;
+  line-height: 20px;
+  
+}
+
+.space{
+font-size: 15px;
+}
+
+
+.change{
+font-size: 15px;
+}
+
+
+.music{
+  margin-top: 20%;
+  padding-top: 20px;
+  width: 70%; 
+  background-color: whitesmoke;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6%;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+} 
+
+
+
+.btn{
+  width: 65%;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 10px 10px 0; 
+  font-weight: bold;
+  
+}
+
+.Can{
+  font-size: small;
+  margin-top: 20px;
+ padding-bottom: 35px;
+ margin-bottom: 50px;
+}
+
+.order{
+  text-decoration: none;
+  color: rgb(88, 87, 87);
+  font-weight: bold;
+}
+   }
